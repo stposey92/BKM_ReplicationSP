@@ -3,4 +3,4 @@ by Lori Beaman, Niall Keleher, and Jeremy Magruder
 
 This repository was created by Sean Posey.
 
-To begin go to the ReadMe.MD in the Documents folder. The ReadMe will instruct you on how to replicate this project.
+To begin go to the [ReadMe.MD](/Documents/ReadMe.MD) in the Documents folder. The ReadMe will instruct you on how to replicate this project.
