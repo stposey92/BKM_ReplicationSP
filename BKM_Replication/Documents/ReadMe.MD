@@ -1,4 +1,4 @@
-This ReadMe document will outline the organization of this replication and step by step directions on how to replicate it.\
+This ReadMe document will outline the organization of this replication and step by step directions on how to replicate it.
 
 Software Requirements:\
 Stata: This replications was done using STATA 14.2
